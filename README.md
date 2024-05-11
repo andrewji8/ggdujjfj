@@ -1,1 +1,1 @@
-blog test
+Racing game entry test
